@@ -4,11 +4,7 @@
 
 # Hey, Everyone. DARE DEVIL EX, here!
 
-I'm a Teenager with Unknown Technology Love,
-
-I'm the person who loves to fork others proj,
-
-Hide your project's from me. Hehehe
+I'm a Teenager & I dont give a fuck about anyOne
 
 
 ## Special Details
