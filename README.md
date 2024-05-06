@@ -1,23 +1,19 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm DARE DEVIL EX</h1>
+<h3 align="center">A passionate frontend developer from NEPTUNE</h3>
 
-<img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/d5f0c12c-57e3-41f4-b90a-eec590df473d" alt="Profile Picture" style="width: 100px; height: 100px; border-radius: 35px;">
+- 🌱 I’m currently learning **About this universe**
 
-# Hey, Everyone. DARE DEVIL EX, here!
+- 📫 How to reach me **@dare_devil_ex**
 
-I'm a Teenager & I dont give a fuck about anyOne
+- ⚡ Fun fact **I funny as I can even laugh at my bad**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dare_devil_ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dare_devil_ex" height="30" width="40" /></a>
+<a href="https://fb.com/dare_devil_ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dare_devil_ex" height="30" width="40" /></a>
+<a href="https://instagram.com/dare_devil_ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dare_devil_ex" height="30" width="40" /></a>
+<a href="https://discord.gg/dare_devil_ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dare_devil_ex" height="30" width="40" /></a>
+</p>
 
-## Special Details
-
-Death can have me when it earns me
-
-## Skills
- **NOTHING**
-
-## Social Media
-<a href="https://instagram.com/dare_devil_ex"><img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/9f9bea29-36be-4c35-87b0-3edda9c23405" width="50" height="50"></a>
-<a href="https://t.me/dare_devil_ex"><img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/32c826c6-bd44-433d-a1b8-0dc856ebe1d9" width="50" height="50"></a>
-<a href="https://www.reddit.com/u/dare_devil_ex"><img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/29ccdce5-86d0-49d7-8a9a-6fe03f94ab35" width="50" height="50"></a>
-<a href="https://x.com/dare_devil_ex"><img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/7407c79f-4fc8-4e48-94a7-e063d8c63475" width="50" height="50"></a>
-<a href="https://facebook.com/dare.devil.ex"><img src="https://github.com/dare-devil-ex/dare-devil-ex/assets/165525332/af932795-73df-4686-89a6-f6e0ce0c09fc" width="50" height="50"></a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
