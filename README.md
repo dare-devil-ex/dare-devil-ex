@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dare-devil-ex/dare-devil-ex/output/snake.svg" alt="Snake animation" />
-
-###
