@@ -1,4 +1,4 @@
-<h2 align="left">Wassup ❄️ I'm dare_devil_ex</h2>
+<h2 align="left">Wassup ❄️ I'm dare devil ex</h2>
 
 <p>A boy with tech hobbie</p>
 
